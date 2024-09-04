@@ -1,0 +1,81 @@
+# Welcome! {.unnumbered}
+
+Welcome to the course materials for the **insert course name** short course. 
+
+This course is designed to ...
+
+Through this course, you will learn ...
+
+
+## How to use this book
+This book provides a combination of written explanations, code examples, and practical exercises to allow you to practice what you have learned. 
+
+Code examples will be provided in code blocks, such as this one:
+
+```{r}
+#| label: code-block-example
+#| eval: false
+
+1 + 1
+```
+
+Code in these blocks can be copied and pasted into your R session to save time when coding. We recommend typing the code yourself to familiarise yourself with the coding process and use the copy option if you are really stuck! 
+
+Throughout the book, you will see colour-coded boxes which are used to highlight important points, give warnings, or give tips such as keyboard shortcuts.
+
+:::{.callout-note}
+These boxes will be used to highlight important messages, supplementing the main text.
+:::
+
+:::{.callout-tip}
+## Hint
+
+These boxes will contain useful hints, such as keyboard shortcuts, that can make your coding life a little easier!
+:::
+
+:::{.stylebox}
+
+::::{.stylebox-header}
+:::::{.stylebox-icon}
+:::::
+Style tip
+::::
+
+::::{.stylebox-body}
+These boxes contain style tips to ensure that your code follows the [Tidyverse style guide](https://style.tidyverse.org/), making it as consistent and readable as possible.
+::::
+
+:::
+
+:::{.callout-warning}
+These boxes will contain warnings and highlight areas where you need to be more cautious in your coding or analysis.
+:::
+
+To make these notes as accessible as possible, they are available to view in dark mode by toggling the ![](images/dark_mode.png) button. They are also available to download as a PDF file using the ![](images/pdf.png) button.
+
+All exercise solutions are available in the [appendices](exercise_solutions.qmd). Please attempt the exercises yourself first, making full use of R's built in help files, [cheatsheets](https://posit.co/resources/cheatsheets/) (where available), and example R code in this book. Going straight to the solutions to copy and paste the code without thinking will not help you after the course!
+
+Some exercises contain expandable hints, such as functions required to complete them, that can be viewed when needed. For example:
+
+:::{callout-caution collapse="true}
+## Exercise hint
+
+The functions you will need for this exercise are `filter` and `count`. 
+:::
+
+## Data used in the course
+The examples and exercises in these materials are based on real world data....
+
+Data for this course can be downloaded from the `data` folder of this course's [repository](https://github.com/sophie-a-lee).
+
+For more information about this data, including variable descriptions and sources, see [the appendix](data_description.qmd).
+
+## Feedback and issues
+This book is a work in progress and will be updated based on course feedback and requirements of participants. If you spot a bug or mistake in these notes, please let me know by [raising an issue](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course/issues).
+
+If you enjoyed using these resources and would like to find more of them or attend a live course, please visit [my website](https://scubed.rbind.io/), follow me on [Twitter](https://x.com/SophieStats10) and [LinkedIn](https://www.linkedin.com/in/sophie-a-lee/), or support more free resources by [buying me a coffee!](https://buymeacoffee.com/sophie_a_lee).
+
+If you are interested in organising a bespoke course or have consultancy opportunities you think I would be a good fit for, please [get in touch!](https://scubed.rbind.io/contact/)
+
+## License
+I believe that science should not be behind a paywall, that is why these materials are available for free online, licensed under a [CC BY-SA licence](https://creativecommons.org/licenses/by-sa/4.0/).

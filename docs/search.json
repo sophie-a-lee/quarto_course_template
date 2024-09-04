@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Short course template",
+    "section": "",
+    "text": "Welcome!\nWelcome to the course materials for the insert course name short course.\nThis course is designed to …\nThrough this course, you will learn …",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "Short course template",
+    "section": "How to use this book",
+    "text": "How to use this book\nThis book provides a combination of written explanations, code examples, and practical exercises to allow you to practice what you have learned.\nCode examples will be provided in code blocks, such as this one:\n\n1 + 1\n\nCode in these blocks can be copied and pasted into your R session to save time when coding. We recommend typing the code yourself to familiarise yourself with the coding process and use the copy option if you are really stuck!\nThroughout the book, you will see colour-coded boxes which are used to highlight important points, give warnings, or give tips such as keyboard shortcuts.\n\n\n\n\n\n\nNote\n\n\n\nThese boxes will be used to highlight important messages, supplementing the main text.\n\n\n\n\n\n\n\n\nHint\n\n\n\nThese boxes will contain useful hints, such as keyboard shortcuts, that can make your coding life a little easier!\n\n\n\n\n\n\n\nStyle tip\n\n\nThese boxes contain style tips to ensure that your code follows the Tidyverse style guide, making it as consistent and readable as possible.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nThese boxes will contain warnings and highlight areas where you need to be more cautious in your coding or analysis.\n\n\nTo make these notes as accessible as possible, they are available to view in dark mode by toggling the  button. They are also available to download as a PDF file using the  button.\nAll exercise solutions are available in the appendices. Please attempt the exercises yourself first, making full use of R’s built in help files, cheatsheets (where available), and example R code in this book. Going straight to the solutions to copy and paste the code without thinking will not help you after the course!\nSome exercises contain expandable hints, such as functions required to complete them, that can be viewed when needed. For example:\n:::{callout-caution collapse=“true} ## Exercise hint\nThe functions you will need for this exercise are filter and count. :::",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#data-used-in-the-course",
+    "href": "index.html#data-used-in-the-course",
+    "title": "Short course template",
+    "section": "Data used in the course",
+    "text": "Data used in the course\nThe examples and exercises in these materials are based on real world data….\nData for this course can be downloaded from the data folder of this course’s repository.\nFor more information about this data, including variable descriptions and sources, see the appendix.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#feedback-and-issues",
+    "href": "index.html#feedback-and-issues",
+    "title": "Short course template",
+    "section": "Feedback and issues",
+    "text": "Feedback and issues\nThis book is a work in progress and will be updated based on course feedback and requirements of participants. If you spot a bug or mistake in these notes, please let me know by raising an issue.\nIf you enjoyed using these resources and would like to find more of them or attend a live course, please visit my website, follow me on Twitter and LinkedIn, or support more free resources by buying me a coffee!.\nIf you are interested in organising a bespoke course or have consultancy opportunities you think I would be a good fit for, please get in touch!",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Short course template",
+    "section": "License",
+    "text": "License\nI believe that science should not be behind a paywall, that is why these materials are available for free online, licensed under a CC BY-SA licence.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  }
+]

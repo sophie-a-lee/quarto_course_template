@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Short course template"
+  author: "Sophie Lee"
+  date: 2024-09-04
+  downloads: [pdf]  
+  search: true
+  navbar:
+    right: 
+      - icon: github
+        href: https://github.com/sophie-a-lee/
+        aria-label: Github
+      - icon: cup-hot
+        href: https://buymeacoffee.com/sophie_a_lee
+        aria-label: Buy me a coffee
+  chapters:
+    - index.qmd
+    - chapter1.qmd
+  appendices: 
+    - data_description.qmd
+    - exercise_solutions.qmd
+
+format:
+  html:
+    theme:
+      light: [pulse, style.scss]
+      dark: darkly
+  pdf:
+    documentclass: scrreprt
